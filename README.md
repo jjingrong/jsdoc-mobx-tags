@@ -1,6 +1,13 @@
 # jsdoc-mobx-tags
 JSDoc plugin pre-process typical MobX tags to make them parsable
 
+Currently - parsing MobX tags results in errors such as 
+```
+ERROR: Unable to parse ../SomeMobXComponent.js: Unexpected character '@'
+```
+
+This simple plugin for JSDoc aims to fix that. 
+
 Currently supports common MobX tags, such as
 - `@observer`
 - `@observable`
