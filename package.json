@@ -1,0 +1,28 @@
+{
+    "name": "jsdoc-mobx-tags",
+    "version": "0.1.0",
+    "description": "JSDoc plugin pre-process typical MobX tags to make them parsable",
+    "author": "jjingrong <contact@jjingrong.com>",
+    "homepage": "https://github.com/jjingrong/jsdoc-mobx-tags",
+    "keywords": ["jsdoc", "jsdoc-plugin", "mobx", "node"],
+    "main": "strip-outer-iife.js",
+    "contributors": [
+        "jjingrong <contact@jjingrong.com> (https://github.com/jjingrong)"
+    ],
+    "engines": { "node": ">=0.6.0" },
+    "devDependencies": { "jsdoc": ">=3.3.0" },
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/jjingrong/jsdoc-mobx-tags.git"
+    },
+    "bugs": {
+        "mail": "contact@jjingrong.com",
+        "url": "https://github.com/jjingrong/jsdoc-mobx-tags/issues"
+    },
+    "licenses": [
+        {
+            "type": "CC0",
+            "url": "https://github.com/jjingrong/jsdoc-mobx-tags/raw/master/LICENSE"
+        }
+    ],
+}
