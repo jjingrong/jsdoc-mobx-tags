@@ -21,7 +21,7 @@ To use plugin you should include the plugin module in the `plugins` array of
 
 ```json
 {
-    "plugins": ["node_modules/jsdoc-mobx-tags"]
+    "plugins": ["node_modules/jsdoc-mobx-tags/jsdoc-mobx-tags"]
 }
 ```
 
@@ -98,7 +98,7 @@ mobxObservables() {
   someString = ''
 }
 ```
-
+---
 ## Contributing
 
 Feel free to open issues/PRs. This is implemented as a quick hack for my own usage, but I realised that some others may find it useful too :)
