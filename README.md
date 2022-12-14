@@ -1,4 +1,4 @@
-# jsdoc-mobx-tags [![npm version](https://badge.fury.io/js/jsdoc-mobx-tags.svg)](https://badge.fury.io/js/jsdoc-mobx-tags)  [![Downloads](http://img.shields.io/npm/dm/jsdoc-mobx-tags.svg)](https://www.npmjs.com/package/jsdoc-mobx-tags)
+# jsdoc-mobx-tags [![npm version](https://badge.fury.io/js/jsdoc-mobx-tags.svg)](https://badge.fury.io/js/jsdoc-mobx-tags)  [![Downloads](http://img.shields.io/npm/dt/jsdoc-mobx-tags.svg)](https://www.npmjs.com/package/jsdoc-mobx-tags)
 
 JSDoc plugin pre-process typical MobX tags to make them parsable
 
